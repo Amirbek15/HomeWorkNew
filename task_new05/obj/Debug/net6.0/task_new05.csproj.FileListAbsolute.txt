@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\task_new05\bin\Debug\net6.0\task_new05.exe
+C:\Users\PC\Desktop\C#\task_new05\bin\Debug\net6.0\task_new05.deps.json
+C:\Users\PC\Desktop\C#\task_new05\bin\Debug\net6.0\task_new05.runtimeconfig.json
+C:\Users\PC\Desktop\C#\task_new05\bin\Debug\net6.0\task_new05.dll
+C:\Users\PC\Desktop\C#\task_new05\bin\Debug\net6.0\task_new05.pdb
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.dll
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\refint\task_new05.dll
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.pdb
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\task_new05.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\task_new05\obj\Debug\net6.0\ref\task_new05.dll
